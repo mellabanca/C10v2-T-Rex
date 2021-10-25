@@ -29,7 +29,7 @@ function draw(){
   //impede que o trex caia
   trex.collide(borda[3]);
 
-  console.log(trex.y);
+  //console.log(trex.y);
 
   drawSprites();
 }
